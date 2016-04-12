@@ -1,7 +1,10 @@
-### Basic Project
+### Mock Up Project
 
-## March, 26 2016
+## April 11 2016
 
-Create a Maven structure on GitHub, clone it to your local Repo and update it
+- OOP
+- Java 7
+- Maven
+
 
 [Michael Zhestkov](mailto:michaelzhestkov@gmail.com)
